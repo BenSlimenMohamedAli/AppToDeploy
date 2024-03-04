@@ -12,6 +12,6 @@ class DatamanagementApplicationTests {
 
 	@Test
 	void justTEst(){
-		System.out.println("Hallo UnitTest");
+		System.out.println("Hallo BA-001");
 	}
 }
